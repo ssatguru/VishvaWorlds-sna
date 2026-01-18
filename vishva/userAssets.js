@@ -111,5 +111,13 @@ userAssets=[
         "TropicalSunnyDay_pz.jpg"
       ]}
     ]}
+  ]},
+  {"d":"html",
+   "f":[
+    "intro.html"
+  ]},
+  {"d":"textures",
+   "f":[
+    "welcome-38373.png"
   ]}
 ]
