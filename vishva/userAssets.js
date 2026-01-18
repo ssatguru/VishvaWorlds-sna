@@ -1,4 +1,9 @@
 userAssets=[
+  {"d":"audio",
+   "f":[
+    "footstep_carpet_000.ogg",
+    "Hello.ogg"
+  ]},
   {"d":"curated",
    "f":[
     {"d":"characters",
